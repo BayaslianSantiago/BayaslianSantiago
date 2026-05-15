@@ -36,7 +36,7 @@ Flujo de trabajo optimizado para garantizar alta productividad, calidad de códi
 ### Métricas de Contribución
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BayaslianSantiago&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
