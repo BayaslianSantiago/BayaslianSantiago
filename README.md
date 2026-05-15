@@ -30,19 +30,3 @@ Flujo de trabajo optimizado para garantizar alta productividad, calidad de códi
 **Sistemas & Herramientas**
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
----
-
-### Métricas de Contribución
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BayaslianSantiago&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-### Contacto
-
-*   **Portafolio:** [Enlace a tu portafolio](#)
-*   **LinkedIn:** [Tu perfil de LinkedIn](#)
-*   **Email:** tu-correo@ejemplo.com
