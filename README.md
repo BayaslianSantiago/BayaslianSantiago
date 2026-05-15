@@ -7,7 +7,6 @@ Perfil técnico enfocado en el diseño, entrenamiento y despliegue de modelos de
 *   **Machine Learning & Deep Learning:** Desarrollo de pipelines de datos y entrenamiento de modelos. Implementación de redes neuronales y orquestación de LLMs locales (Danswer/Onyx, CrewAI) para automatización cognitiva.
 *   **Arquitectura SaaS & Proyectos Multi-tenant:** Construcción de sistemas robustos y plantillas escalables para E-commerce y control de stock, utilizando **Django** como framework principal e integrando bases de datos relacionales con APIs de alto rendimiento.
 *   **Seguridad e Infraestructura:** Securización de servidores VPS, manejo de permisos estrictos y aislamiento de procesos mediante **Docker** y proxies inversos como **Nginx**. Enfoque preventivo en la integridad de las aplicaciones web y la protección de endpoints.
-*   **I+D Avanzado:** Investigación activa e implementación de conceptos de Computación Cuántica y arquitecturas descentralizadas (Blockchain) para futuros modelos de cifrado y procesamiento.
 
 ### ◾ Entorno Operativo y Flujo de Trabajo (Tactical Stack)
 
@@ -21,18 +20,12 @@ El flujo de desarrollo está diseñado para maximizar la velocidad y minimizar l
 ### ◾ Stack Tecnológico Core
 
 **Inteligencia Artificial & Datos**
-`Python` `Pandas` `Deep Learning Frameworks` `CrewAI` `Local LLMs`
+`Python` `Pandas` `Deep Learning Frameworks` `CrewAI` `Local LLMs` `PyTorch` `TensorFlow` `scikit-learn` `R` `Ollama` `Onyx` `Jupyter Notebook` `Colab`
 
 **Backend & Sistemas Multi-tenant**
-`Django` `PostgreSQL` `Docker` `Nginx` `Bash Scripting`
+`Django` `PostgreSQL` `Docker` `Nginx` `Bash Scripting` `Google Cloud` `VPS`
 
 **Herramientas de Desarrollo**
-`Antigravity IDE` `Termux` `Gemini CLI` `OpenCode`
+`Antigravity IDE` `Linux` `Gemini CLI` `OpenCode`
 
 ---
-
-### ◾ Contacto e Intercambio de Llaves Públicas
-
-*   **Infraestructura de Proyectos:** [Enlace a tu portafolio/SaaS](#)
-*   **Red Profesional:** [LinkedIn](#)
-*   **Comunicaciones Seguras:** tu-correo@ejemplo.com
