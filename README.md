@@ -35,11 +35,4 @@ Me enfoco en construir sistemas modulares, eficientes y escalables. Soy un firme
   <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Santiago" />
 </div>
 
-### 📫 Cómo contactarme
 
-- **Agencia:** [saian.com](#) *(Reemplaza con tu enlace)*
-- **LinkedIn:** [Tu LinkedIn](#) *(Reemplaza con tu enlace)*
-- **Email:** tu-correo@ejemplo.com
-
----
-*"Te conviertes en lo que le das a tu atención."*
